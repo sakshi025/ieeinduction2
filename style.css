@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: rgb(50, 42, 112);
+}
+.div {
+  background-color: white;
+  color: rgb(50, 42, 112);
+  margin: 140px;
+
+  padding: 100px;
+  height: 20px;
+}
+.str {
+  font-size: 35px;
+  color: black;
+}
+#input {
+  margin-top: 0px;
+  margin: 20px;
+  padding: 5px;
+}
